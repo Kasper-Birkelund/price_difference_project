@@ -1,0 +1,5 @@
+psycopg2-binary==2.9.9
+dune-client==1.7.4
+python-dotenv==1.0.0
+pandas
+sqlalchemy==1.4.49
